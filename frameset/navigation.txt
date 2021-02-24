@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Navigation</title>
+</head>
+<body bgcolor="lightblue">
+<h1>Navigation Menu</h1>
+<ul>
+<li><a href>MCA</a></li>
+<li><a href>MBA</a></li>
+<li><a href>B.tech</a></li>
+<li><a href>M.tech</a></li>
+<ul>
+<li><a href>CSE</a></li>
+<li><a href>EEE</a></li>
+<li><a href>ECE</a></li>
+<li><a href>BT</a></li>
+<li><a href>CE</a></li>
+</ul>
+</ul>
+</body>
+</html>
