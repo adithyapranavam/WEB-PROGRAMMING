@@ -1,0 +1,23 @@
+body
+{
+	background-color:blue;
+}
+h1
+{
+	color:red;
+	font-size:50;
+	text-align:center;
+	text-decoration:underline;
+	text-decoration-style:double;
+	text-decoration-color:yellow;
+}
+p
+{
+	color:white;
+	font-size:20;
+}
+ul
+{
+	color:green;
+	font-size:x-large;
+}
